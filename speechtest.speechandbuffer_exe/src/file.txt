@@ -1,0 +1,2 @@
+The IoT Virtual Meetup is a place dedicated for discussions and presentations of technologies for IoT application development. Today Bitreactive will present how to visually develop IoT solutions with Reactive Blocks. What are the possibilities of visual development? How can a formal analysis help you develop stateful applications?  With a live demo you get to see how you quickly can implement applications for the Kura platform and deploy it to your IoT gateway.
+
